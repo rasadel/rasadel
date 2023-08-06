@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rasadel, I just started learning Computer Science
+- 👋 Hi, I’m @rasadel, I just started learning Computer Science and just became an Information System student
 - 👀 I’m interested in making my path to become an expert and reliable IT worker
 - 🌱 I’m currently learning:
         +  algorithm and data structure, then implement the two into a real problem in Leetcode
